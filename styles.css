@@ -1,0 +1,25 @@
+body{
+	/* background: url("convocation1.jpg") no-repeat center; */
+	/* background-size: cover; */
+	color: goldenrod;
+	text-align: center;
+	height: 100vh;
+}
+h1{
+	color: goldenrod;
+	font-size: 40px;
+	margin: 40px 0 0;
+}
+
+#timer-div{
+	display: inline-block;
+	font-size: 30px;
+	margin-top: 30px;
+}
+.time-unit, .time-unit span{
+	display: inline-block;
+	padding: 10px;
+	background-color: khaki;
+	border-radius: 5px;
+	border: 1px solid white;
+}	
